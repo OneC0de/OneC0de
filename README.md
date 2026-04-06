@@ -30,7 +30,7 @@ A few ideas I keep coming back to:
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/donnascaffidi/) — where I publish most of my thinking
-- [Self-Serve Thursdays](https://ruli.ai) — weekly office hours for legal professionals exploring AI
+- [Legal AI Architecture Lab](https://ruli.ai) — weekly office hours for legal professionals exploring AI
 
 ---
 
