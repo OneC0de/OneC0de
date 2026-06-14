@@ -1,8 +1,8 @@
-# Hi, I'm Donna Scaffidi
+# Hi, I'm Donna Scaffidi - The Legal AI Architect 💪🏼🚀
 
-**The Legal AI Architect** | Head of AI & Legal Innovation @ [Ruli AI](https://ruli.ai) | Law x Product x AI
+Law x Product x AI | Head of AI & Legal Innovation @ [Ruli AI](https://ruli.ai) 
 
-I'm a lawyer turned legal innovation leader. I build frameworks, workflows, and systems for lawyers who want to architect legal AI — not just adopt it.
+I'm a lawyer turned legal innovation leader. I build products, frameworks, workflows, and systems for lawyers who want to architect legal AI (not just adopt it).
 
 ## What I'm building
 
